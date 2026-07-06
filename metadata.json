@@ -1,0 +1,6 @@
+{
+  "name": "Titan Mart BD SMS Sender",
+  "description": "Offline-first native Android app to import customers from Excel/CSV/Contacts, manage SMS templates, send personalized SMS/WhatsApp messages using native SIM cards or WhatsApp, and track delivery logs and reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
